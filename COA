@@ -1,1 +1,7 @@
+Computer Organization and Architecture is the study of internal working, structuring, and implementation of a computer system. Architecture in the computer system, 
+same as anywhere else, refers to the externally visual attributes of the system. 
+Externally visual attributes, here in computer science, mean the way a system is visible to the logic of programs (not the human eyes!). 
 
+Organization of a computer system is the way of practical implementation that results in the realization of architectural specifications of a computer system.
+In more general language, the Architecture of a computer system can be considered as a catalog of tools available for any operator using the system,
+while Organization will be the way the system is structured so that all those cataloged tools can be used, and efficiently.
